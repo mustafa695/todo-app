@@ -1,0 +1,35 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
+
+.navbar .nav-link{
+  color: #000 !important;
+}
+.todo-form{
+  margin: 5% 0 20px;
+  display: flex;
+  justify-content: center;
+}
+button.btn.btn-danger {
+  margin-left: 1rem;
+  border-radius: 55px;
+  font-size: 12px;
+}
+.form-control{
+  width: 40%;
+}
+.items {
+  margin-left: 190px;
+}
+li{list-style-type: none;}
+
+.todo {
+  padding: 20px;
+  width: 60%;
+  margin: 55px auto;
+  background-color: currentColor;
+  border-radius: 20px;
+}
+span {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
